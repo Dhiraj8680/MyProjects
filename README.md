@@ -1,6 +1,6 @@
 # To-Do Application
 
-A RESTful To-do application built with Java Spring Boot, featuring JWT authentication, role-based access control, and full CRUD functionality for managing tasks.
+A RESTful To-do application built with Java Spring Boot, featuring JWT authentication, role-based access control, and full CRUD functionality for managing tasks
 
 ## Features
 
